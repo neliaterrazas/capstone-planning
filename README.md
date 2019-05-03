@@ -7,6 +7,7 @@
 
 #### Manual Commit History
 8AM-9AM: Initial set up and exploration (elaborate)
+9AM-10AM: UX research, brainstorm, colors on Adobe Colors (take screenshots!)
 
 
 #### Desktop Version:
