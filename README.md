@@ -3,11 +3,65 @@
 #### Nelia Terrazas
 #### 5/3/19
 
-### Description
+### Project Description
+Name of Project: Space Matters Site
+
+Project’s Purpose or Goal: Survey Site Designed to Display Derrick McDonald's Work for Space Matters.
+
+Minimum 
+
+Sign in/sign out. Google Authentication.
+
+Interactive splash page introducing 3 different color selections.
+
+Prompt questions for users to answer.
+
+Collecting data.
+
+Sending and calling back data from database.
+
+Translating data into simple design.
+
+Site hosting from .design so use can begin immeadiately.
+
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and yourlanguage) will you use to create this MVP? List them all here. Be specific.
+
+React
+
+Firebase
+
+Google Authentication
+
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+
+Dive in deeper with different design options.
+
+User is able to delete/edit announcements/ overall entries.
+
+Add social media sharing capabilities.
+
+Analytics: long term data collection displayed as interactive charts and graphs.
+
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+
+Explore social plug ins.
+
+More in depth exploration of Firebase.
+
+Is there anything else you’d like your instructor to know?
+
+I have met with Derrick McDonald, have permission to use his name and group name, and will continue to work with his group until the site is polished and completed to all of our specifications.
 
 #### Manual Commit History
 8AM-9AM: Initial set up and exploration (elaborate)
 9AM-10AM: UX research, brainstorm, colors on Adobe Colors (take screenshots!)
+10AM-11AM: React and Firebase exploration
+11AM-12PM:
+12PM-1PM:
+1PM-2PM:
+2PM-3PM:
+3PM-4PM:
+4PM-5PM:s
 
 
 #### Desktop Version:
@@ -25,12 +79,10 @@
 
 ### Images:
 
-Sketch Wireframes
+Initial Photos for Color Families:
+![](src/assets/images/house-colors.jpg)
+![](src/assets/images/tirana-colors.jpg)
 
-
-![mobile user interface](src/assets/images/mobile-wireframe.png)
-![tablet user interface](src/assets/images/tablet-wireframe.png)
-![desktop user interface](src/assets/images/desktop-wireframe.png)
 
 
 
